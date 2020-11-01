@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const { Schema, model } = mongoose;
-console.log('hmmm')
+
 const citySchema = new Schema(
   {
     city: {
